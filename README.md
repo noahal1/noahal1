@@ -48,7 +48,7 @@ Building Digital Manufacturing & Smart Factory Solutions
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahal1&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
